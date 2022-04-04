@@ -1,0 +1,1 @@
+﻿write-host " shhhshshhshh" -ForegroundColor DarkRed -BackgroundColor Green
